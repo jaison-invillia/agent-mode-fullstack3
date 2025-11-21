@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Notebook Dell Inspiron",
+    "price": 3499.90
+  },
+  {
+    "id": 2,
+    "name": "Mouse Logitech MX Master",
+    "price": 349.90
+  },
+  {
+    "id": 3,
+    "name": "Teclado Mecânico Keychron K2",
+    "price": 599.00
+  },
+  {
+    "id": 4,
+    "name": "Monitor LG UltraWide 29\"",
+    "price": 1299.00
+  },
+  {
+    "id": 5,
+    "name": "Webcam Logitech C920",
+    "price": 449.90
+  },
+  {
+    "id": 6,
+    "name": "Headset HyperX Cloud II",
+    "price": 499.00
+  },
+  {
+    "id": 7,
+    "name": "SSD Samsung 1TB",
+    "price": 599.90
+  },
+  {
+    "id": 8,
+    "name": "Mousepad Gamer Grande",
+    "price": 89.90
+  },
+  {
+    "id": 9,
+    "name": "Hub USB-C 7 em 1",
+    "price": 199.00
+  },
+  {
+    "id": 10,
+    "name": "Suporte para Notebook",
+    "price": 129.90
+  }
+]

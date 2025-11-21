@@ -5,5 +5,5 @@ Aplicação de frontend deve ficar no diretório app/frontend.
 
 ## Nunca mude diretórios quando o modo agent estiver executando comandos
 
-- Nunca mude diretórios
-- Em vez disso, aponte para o diretório ao emitir comandos
+- Nunca mude de diretório
+- Em vez disso, prefixe o comando com o caminho do diretório ao emitir comandos
